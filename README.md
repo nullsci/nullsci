@@ -35,11 +35,6 @@
 ### 🏆 Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=nullsci&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
----
-
-### 🛰️ Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nullsci&repo=ai-lab&theme=tokyonight&bg_color=0D1117&hide_border=true)](https://github.com/nullsci/ai-lab)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nullsci&repo=neural-automation&theme=tokyonight&bg_color=0D1117&hide_border=true)](https://github.com/nullsci/neural-automation)
 
 ---
 
