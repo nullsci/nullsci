@@ -47,9 +47,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/nullsci/nullsci/output/github-contribution-grid-snake.svg)
-
 ---
 
 <div align="center">
