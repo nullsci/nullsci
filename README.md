@@ -1,5 +1,3 @@
-<div align="center">
-  
 <!-- 动态欢迎标题 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Nullsci+👋;AI+Engineer+%7C+Tech+Explorer;Welcome+to+my+GitHub+Universe!)](https://git.io/typing-svg)
 
@@ -43,11 +41,7 @@
 
 ---
 
----
-
-<div align="center">
+<p align="center">
   <i>⚡ Code the future. Create with precision. Inspire endlessly. ⚡</i><br><br>
-  <img src="https://komarev.com/ghpvc/?username=nullsci&style=flat-square&color=00F0FF" alt="Profile Views"/>
-</div>
-
-</div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nullsci.nullsci&style=flat-square&color=00F0FF" alt="Profile Views"/>
+</p>
