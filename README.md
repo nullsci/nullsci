@@ -7,22 +7,8 @@
 
 ### 🧠 About Me
 
-🎓 **化学博士研究生在读** · 南京大学（Ph.D. student in Chemistry, Nanjing University）
-
-🔬 **研究方向**
-- **有机合成**：小分子与功能分子的设计、合成与结构优化
-- **分析表征**：GC-MS / NMR / XRD 等谱学解析与结构确证
-- **计算化学**：TD-DFT 激发态计算，面向发光分子（荧光团）的吸收/发射与 Stokes 位移预测
-
-🤖 **交叉方向：AI for Chemistry**
-把大模型真正落到化学实验上 —— 化学智能体、工具链编排、实验数据闭环与可复现工作流
-
-🧪 **当前项目**
-- **LightChem** —— 面向化学研究的智能体系统
-- **Kosmos** —— 自主发现型 AI Scientist（[repo](https://github.com/nullsci/Kosmos)）
-- **Claude Code 逆向工程** —— 客户端架构、上下文压缩、遥测与行为级分析
-
-📫 **联系**：nullsci@outlook.com
+🎓 **Ph.D. student in Chemistry, Nanjing University**
+📫 Reach me at **nullsci@outlook.com**
 
 ### 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,js,react,linux,git,ai,raspberrypi,vscode,fastapi,pytorch,tensorflow,github,html,css)](https://skillicons.dev)
