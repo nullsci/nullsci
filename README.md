@@ -16,24 +16,23 @@
 ---
 
 ### ⚙️ GitHub Analytics
+![Followers](https://img.shields.io/github/followers/nullsci?label=Followers&style=for-the-badge&color=00F0FF&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/nullsci?affiliations=OWNER&label=Stars&style=for-the-badge&color=00F0FF&labelColor=0D1117)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnullsci&query=%24.public_repos&label=Repos&style=for-the-badge&color=00F0FF&labelColor=0D1117)
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=nullsci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00FFFF) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullsci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF) |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
 ### 🔥 GitHub Activity
 [![GitHub Streak](https://streak-stats.demolab.com?user=nullsci&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nullsci&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Kosmos](https://img.shields.io/github/last-commit/nullsci/Kosmos?style=for-the-badge&color=00F0FF&labelColor=0D1117&label=Kosmos)
+![Suzuki](https://img.shields.io/github/last-commit/nullsci/Suzuki?style=for-the-badge&color=00F0FF&labelColor=0D1117&label=Suzuki)
 
 ---
 
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=nullsci&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
-
----
 
 ### 🧩 Badges
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
