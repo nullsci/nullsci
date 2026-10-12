@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Nullsci+👋;AI+Engineer+%7C+Tech+Explorer;Welcome+to+my+GitHub+Universe!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi!+I+am+Nullsci;Chemistry+PhD+%40+NJU;AI+for+Chemistry)](https://git.io/typing-svg)
 
 ### 🎓 Ph.D. student in Chemistry · Nanjing University
 
